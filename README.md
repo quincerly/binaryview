@@ -4,6 +4,8 @@ This is the close binary star visualisation program I wrote during my PhD.
 
 It should be working when I merge it into master.
 
+![Example image](examples/Symbiotic.tiff)
+
 # Build and install
 
 This depends on <a href="https://github.com/quincerly/libbinary" target="_blank">https://github.com/quincerly/libbinary</a>. Install that first.
