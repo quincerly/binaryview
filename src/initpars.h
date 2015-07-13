@@ -1,0 +1,1 @@
+int initpars(FILE *configfile);

@@ -1,0 +1,2 @@
+rm -f ../bin//binaryanim
+gcc -g  -L/usr/local/lib -L/usr/lib -L/usr/X11R6/lib -L/usr/X11/lib -L/usr/local/libbinary//lib -o ../bin//binaryanim binaryanim.o GLlobe.o GLwind.o GLjet.o writetiff.o GLps.o -lglut -lGLU -lGL -lXmu -lXext -lX11 -lm -ltiff -lbinary
